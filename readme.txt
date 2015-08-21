@@ -52,8 +52,10 @@ I answer any questions in the official [support forums](https://plus.google.com/
 
 == Changelog ==
 = 1.3.2 =
+* Fixed localization
+
+= 1.3.1 =
 * Fixed Character escaping
-* Fixed Localization
 
 = 1.3.0 =
 * Sender now receive a copy of their mail
